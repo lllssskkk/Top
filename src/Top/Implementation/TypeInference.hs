@@ -1,4 +1,4 @@
-{-# LANGUAGE UndecidableInstances, FlexibleInstances, MultiParamTypeClasses #-}
+{-# LANGUAGE UndecidableInstances, FlexibleInstances, FlexibleContexts, MultiParamTypeClasses #-}
 -----------------------------------------------------------------------------
 -- | License      :  GPL
 -- 
